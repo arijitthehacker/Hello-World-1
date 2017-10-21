@@ -1,1 +1,3 @@
 Hello World!
+In Python: print "Hello, World"
+In Java: System.out.println("Hello, World");
